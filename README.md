@@ -1,5 +1,6 @@
 <div>
-  안녕하세요. 👋. 
+  안녕하세요. 👋
+  <br>
   사람들에게 좋은 코드와 기술로 편리한 서비스 경험을 선물하는 Front-End 개발자가 되고 싶은 이지현입니다.
 </div>
 
@@ -32,6 +33,8 @@
 <br>
 
 ## 📌 Project
+
+<!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 
 *아직 작성중 입니다*
 

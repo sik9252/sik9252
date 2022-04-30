@@ -38,5 +38,5 @@
 <h3>💻 Algorithm</h3>
 
 <span>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={beank})](https://solved.ac/{beank})
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=beank)](https://solved.ac/beank)
 </span>

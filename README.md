@@ -18,10 +18,10 @@
 
 <h3>📞 Contact</h3>
 
-Email: sik9252@naver.com
-Blog: [https://sik9252.github.io](https://sik9252.github.io)
+Email: sik9252@naver.com. 
+Blog: [https://sik9252.github.io](https://sik9252.github.io). 
 Portfolio: *아직 준비중 입니다*
-  
+
 
 <h3>📌 Project</h3>
 

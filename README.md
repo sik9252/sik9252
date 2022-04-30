@@ -1,4 +1,7 @@
-### Hi there 👋
+<div>
+  안녕하세요. ✋  
+  사람들에게 이색적인 서비스 경험을 선물하는 Front-End 개발자가 되고 싶은 이지현입니다.
+</div>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -18,9 +21,9 @@
 
 <h3>📞 Contact</h3>
 
-Email: sik9252@naver.com. 
-Blog: [https://sik9252.github.io](https://sik9252.github.io). 
-Portfolio: *아직 준비중 입니다*
+- Email: sik9252@naver.com
+- Blog: [https://sik9252.github.io](https://sik9252.github.io)
+- Portfolio: *아직 준비중 입니다*
 
 
 <h3>📌 Project</h3>

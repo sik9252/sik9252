@@ -1,5 +1,5 @@
 <div>
-  안녕하세요. ✋  
+  안녕하세요. 👋. 
   사람들에게 좋은 코드와 기술로 편리한 서비스 경험을 선물하는 Front-End 개발자가 되고 싶은 이지현입니다.
 </div>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-## Collaboration Tools
+## 🤝 Collaboration Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)

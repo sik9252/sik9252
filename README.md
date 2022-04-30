@@ -52,3 +52,13 @@
 <span>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beank)](https://solved.ac/beank/)
 </span>
+
+## Stats
+
+<div>
+  ![JiHyun's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=sik9252&show_icons=true&theme=vision-friendly-dark)
+</div>
+
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sik9252&layout=compact&theme=dark)
+</div>

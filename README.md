@@ -29,15 +29,15 @@
 <h3>📌 Project</h3>
 
 
-<h3>Activity</h3>
+<h3>🚴🏻 Activity</h3>
 
 
-<h3>Contest & Awards</h3>
+<h3>🏅 Contest & Awards</h3>
 
 
-<h3>Algorithm</h3>
+<h3>💻 Algorithm</h3>
 
 <span>
-[![Solved.ac
+![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=beank)](https://solved.ac/beank)
 </span>

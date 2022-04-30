@@ -55,10 +55,10 @@
 
 ## Stats
 
-<div>
+<span>
   ![JiHyun's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=sik9252&show_icons=true&theme=vision-friendly-dark)
-</div>
+</span>
 
-<div>
+<span>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sik9252&layout=compact&theme=dark)
-</div>
+</span>

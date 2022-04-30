@@ -27,25 +27,27 @@
 
 - Email: sik9252@naver.com
 - Blog: [https://sik9252.github.io](https://sik9252.github.io)
-- Portfolio: *아직 준비중 입니다*
+- Portfolio: *아직 작성중 입니다*
 
 <br>
-
 
 ## 📌 Project
 
-<br>
+*아직 작성중 입니다*
 
+<br>
 
 ## 🚴🏻 Activity
 
-<br>
+*아직 작성중 입니다*
 
+<br>
 
 ## 🏅 Contest & Awards
 
-<br>
+*아직 작성중 입니다*
 
+<br>
 
 ## 💻 Algorithm
 

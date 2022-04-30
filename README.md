@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**sik9252/sik9252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛠 Tech Stack</h3>
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white) -->
+
+<h3>Collaboration</h3>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+
+<h3>📞 Contact</h3>
+
+Email: sik9252@naver.com
+Blog: [https://sik9252.github.io](https://sik9252.github.io)
+Portfolio: *아직 준비중 입니다*
+  
+
+<h3>📌 Project</h3>
+
+
+<h3>Activity</h3>
+
+
+<h3>Contest & Awards</h3>
+
+
+<h3>Algorithm</h3>
+
+<span>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=beank)](https://solved.ac/beank)
+</span>

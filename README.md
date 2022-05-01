@@ -58,7 +58,7 @@
 
 <br>
 
-## Stats
+## ⭐️ Stats
 
 ![JiHyun's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=sik9252&show_icons=true&theme=vision-friendly-dark)
 

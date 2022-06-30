@@ -48,11 +48,11 @@
 
 ## 🏅 Contest & Awards
 
-### 참여
+### 참여 경력
 
 **- 2022 Stop Covid-19 SW Challenge 아이디어 해커톤**
 
-### 수상
+### 수상 경력
 
 **- 2021 AI/SW Week (대상)**
   

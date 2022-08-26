@@ -33,6 +33,9 @@
 
 ## 📌 Project
 
+- Plumverse 사이트 개발
+- (주)랩스탠다드 사이트 개발
+
 <!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 
 *아직 작성중 입니다*

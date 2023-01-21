@@ -33,8 +33,8 @@
 
 ## 📌 Project
 
-- Plumverse 사이트 개발
-- (주)랩스탠다드 사이트 개발
+- Plumverse 사이트 개발 [http://plumverse.kr](http://plumverse.kr)
+- (주)랩스탠다드 사이트 개발 [https://labstandard.kr](https://labstandard.kr)
 
 <!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 

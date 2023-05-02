@@ -53,6 +53,7 @@
 **- 2022-1 SCH 프로그래밍 경진대회 (최우수상)**
 
 **- 2022 SW 중심대학 공동해커톤 (우수상)**
+https://github.com/SW-HACKATHON-CAMIN
 
 <br>
 

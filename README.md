@@ -26,7 +26,7 @@
 ## 📞 Contact
 
 - Email: sik9252@naver.com
-- Blog: [https://sik9252.github.io](https://sik9252.github.io)
+- Blog: [https://sik9252.github.io](https://sik9252.github.io), 벨로그로 이전 작업 중
 - Portfolio: [노션 링크](https://spotted-cattle-1b3.notion.site/6772ba3fb0524c05a45201a6c966bd43)
 
 <br>
@@ -47,12 +47,6 @@
 <br>
 
 ## 🏅 Contest & Awards
-
-### 참여 경력
-
-**- 2022 Stop Covid-19 SW Challenge 아이디어 해커톤**
-
-### 수상 경력
 
 **- 2021 AI/SW Week (대상)**
   

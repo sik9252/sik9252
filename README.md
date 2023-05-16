@@ -35,6 +35,7 @@
 - 키즐링 마케팅 사이트 개발: [키즐링 바로가기](https://web-kizling-3nec02mlh4ny2hs.sel4.cloudtype.app/)
 - Plumverse 사이트 개발: [플럼버스 바로가기](http://plumverse.kr)
 - (주)랩스탠다드 사이트 개발: [랩스탠다드 바로가기](https://labstandard.kr)
+- WChat 채팅 웹 프로젝트: [WChat 바로가기](https://web-wchat-project-fe-7hqac2alhi4ekqp.sel4.cloudtype.app/)
 
 <!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 

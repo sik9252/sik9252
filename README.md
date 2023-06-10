@@ -70,3 +70,5 @@ https://github.com/SW-HACKATHON-CAMIN
 ## ⭐️ Stats
 
 ![JiHyun's GitHub stats](https://github-readme-stats-sepia-three.vercel.app/api?username=sik9252&show_icons=true&theme=vision-friendly-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sik9252&layout=compact&hide=Shell,Ruby)](https://github.com/sik9252/github-readme-stats)

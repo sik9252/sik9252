@@ -22,7 +22,6 @@
 ## 🤝 Collaboration Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
 <br>

@@ -18,11 +18,13 @@
 
 <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=Styled components&logoColor=white"/>
 
-<!--<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=Vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>-->
-
 **State Management**
 
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3678e5?style=flat&logo=Recoil&logoColor=white"/>
+
+**Test** (학습중)
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=Vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
 
 **Devops**
 

@@ -50,6 +50,7 @@
 - Plumverse 사이트 개발
 - (주)랩스탠다드 사이트 개발
 - WChat 웹 기반 채팅 서비스 개발
+- 순맵 서비스 개발 (진행중)
 
 <!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 
@@ -57,26 +58,33 @@
 
 ## 🚴🏻 Activity
 
-*작성중 입니다*
+- Security First 학술 동아리
+- CGB 코딩 교육 봉사 동아리
+- 원티드 프리온보딩 프론트엔드 인턴십 11기
+- Lio 팀원 겸 프리랜서
 
 <br>
 
 ## 🏅 Contest & Awards
 
 **- 2021 AI/SW Week (대상)**
+  - 에너지 관리를 위한 지능형 사물인터넷 기반 통합 솔루션, 아두이노를 이용한 스마트홈 개발
   
 **- 2022-1 SCH 프로그래밍 경진대회 (최우수상)**
+  - 사회 소외 계층을 위한 시스템 비즈니스 모델 작성
+  - 코딩 테스트
 
 **- 2022 SW 중심대학 공동해커톤 (우수상)**
-https://github.com/SW-HACKATHON-CAMIN
+  - 안성 맞춤 카페를 찾아주는 서비스
+  - https://github.com/SW-HACKATHON-CAMIN
 
 <br>
 
-## 💻 Algorithm
+<!--## 💻 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beank)](https://solved.ac/beank/)
 
-<br>
+<br>-->
 
 ## ⭐️ Stats
 

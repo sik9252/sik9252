@@ -46,11 +46,11 @@
 <br>
 
 ## 📌 Project
-- 키즐링 마케팅 사이트 개발
-- Plumverse 사이트 개발
-- (주)랩스탠다드 사이트 개발
-- WChat 웹 기반 채팅 서비스 개발
-- 순맵 서비스 개발 (진행중)
+- 키즐링 마케팅 사이트 개발 (외주)
+- Plumverse 사이트 개발 (외주)
+- (주)랩스탠다드 사이트 개발 (외주)
+- WChat 웹 기반 채팅 서비스 개발 (팀 프로젝트)
+- 순맵 서비스 개발 (팀 프로젝트)
 
 <!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 
@@ -61,7 +61,7 @@
 - Security First 학술 동아리
 - CGB 코딩 교육 봉사 동아리
 - 원티드 프리온보딩 프론트엔드 인턴십 11기
-- Lio 팀원 겸 프리랜서
+- lio 재직중
 
 <br>
 

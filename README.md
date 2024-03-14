@@ -16,24 +16,29 @@
 
 **Styling**
 
-<img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=Styled components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=Styled components&logoColor=white"/> & other UI frameworks
 
 **State Management**
 
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3678e5?style=flat&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3678e5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Jotai-E6E6E6?style=flat&logo=jotai&logoColor=white"/>
 
-**Test** (학습중)
+<!--**Test** (학습중)
 
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=Vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=Vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>-->
 
 **Devops**
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
 
-**Collaboration**
+**Collaboration Tools**
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+
+**ETC**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+
+
 
 <br>
 
@@ -41,14 +46,14 @@
 
 - Email: sik9252@naver.com
 - Blog: [블로그 링크](https://coding-life-diary.tistory.com/)
-- Portfolio: [포트폴리오 링크](https://spotted-cattle-1b3.notion.site/6772ba3fb0524c05a45201a6c966bd43)
+<!--- Portfolio: [포트폴리오 링크](https://spotted-cattle-1b3.notion.site/6772ba3fb0524c05a45201a6c966bd43)-->
 
 <br>
 
 ## 📌 Project
 
-- 2023 WChat 웹 기반 채팅 서비스 개발 (팀 프로젝트)
-- 2023 순맵 서비스 개발 (팀 프로젝트)
+- 2023 WChat 웹 기반 채팅 서비스 개발
+- 2023 순맵 서비스 개발
 
 <br>
 

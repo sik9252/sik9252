@@ -62,6 +62,8 @@
 2023 ~ <img width="20" alt="lio_logo" src="https://github.com/sik9252/flutter_project/assets/64947440/32a880bf-2ab9-4b7b-9a71-4223b95672cb">
 리오 프론트엔드 개발 소속
 
+[https://dashboard.lio.team/](https://dashboard.lio.team/)
+
 <br>
 
 ## 💰 OutSourcing

@@ -72,7 +72,7 @@
 - 2022 ~ 2023 (주)랩스탠다드 사이트 개발
 - 2023 키즐링 마케팅 사이트 개발
 - 2023 ~ 2024 그린다, 소상공인 대상 자원재순환 플랫폼 백오피스 개발
-- 2024 내포씽, 내포신도시 공공자전거 어플리케이션 개발
+- 2024 내포씽, 내포신도시 공공자전거 어플리케이션, 백오피스 개발
 
 <!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
 

@@ -7,36 +7,33 @@
 
 </div>
 
-## 🛠 Tech Stack
+## 🛠 SKILLS
 
 **Core**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-**Styling**
-
 <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=Styled components&logoColor=white"/> & other UI frameworks
 
-**State Management**
 
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3678e5?style=flat&logo=Recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Jotai-E6E6E6?style=flat&logo=jotai&logoColor=white"/>
 
-<!--**Test** (학습중)
+**Mobile**
 
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=Vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>-->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 
-**Devops**
+**Deployment**
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
 
 **Collaboration Tools**
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 
-**ETC**
+**Interest & Studying**
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
 
 
 
@@ -59,8 +56,8 @@
 
 ## 💼 Work
 
-2023 ~ <img width="20" alt="lio_logo" src="https://github.com/sik9252/flutter_project/assets/64947440/32a880bf-2ab9-4b7b-9a71-4223b95672cb">
-리오 프론트엔드 개발 소속
+2023.08 ~ 2024.05 <img width="20" alt="lio_logo" src="https://github.com/sik9252/flutter_project/assets/64947440/32a880bf-2ab9-4b7b-9a71-4223b95672cb">
+리오 개발팀 소속 (프론트엔드)
 
 [https://dashboard.lio.team/](https://dashboard.lio.team/)
 

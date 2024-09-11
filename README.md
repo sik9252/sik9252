@@ -1,9 +1,10 @@
 <div>
 
 ### 이지현(LeeJiHyun)
-- 좋은 코드와 기술로 사람들에게 편리한 서비스 경험을 선물하는 프론트엔드 개발자입니다.
-- `협업`과 `커뮤니케이션`을 통해 `함께 성장`하는 것을 좋아합니다.
-- `비효율적인 프로세스 개선`, `사용자 경험을 향상시키는 방법`, `새로운 기술의 학습과 도전`에 대해 많은 관심을 가지고 있습니다.
+- 안녕하세요! 프론트엔드 개발자 이지현 입니다.
+- 주도적이고 책임감 있게 일할 수 있는 환경을 좋아합니다.
+- 변화에 유연하게 적응하고, 생소한 기술이 있더라도 능동적으로 학습하여 업무에 적극적으로 활용합니다.
+- UX뿐 아니라 DX도 고려하는 개발자가 될 수 있도록 노력하고 있습니다.
 
 </div>
 
@@ -20,13 +21,16 @@
 
 **Deployment**
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white"/>
 
 **Collaboration Tools**
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=AdobeXD&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> 
 
-**Interest & Studying**
+**Test**
 
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
 

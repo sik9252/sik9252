@@ -8,7 +8,7 @@
 
 </div>
 
-## 🛠 SKILLS
+## 🛠 Skill
 
 **Core**
 

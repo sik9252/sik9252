@@ -42,7 +42,7 @@
 
 - Email: sik9252@naver.com
 - Blog: [블로그](https://coding-life-diary.tistory.com/)
-- Portfolio: [포트폴리오](https://leejihyuns.notion.site/JiHyun-Lee-730c8f34a5e041b59f06d286ed0bc80e?pvs=4)
+- Portfolio: [포트폴리오](https://leejihyuns.notion.site/Frontend-Developer-730c8f34a5e041b59f06d286ed0bc80e)
 
 <br>
 

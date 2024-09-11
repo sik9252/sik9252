@@ -42,8 +42,9 @@
 
 - Email: sik9252@naver.com
 - Blog: [블로그](https://coding-life-diary.tistory.com/)
-- Portfolio: [포트폴리오](https://leejihyuns.notion.site/Frontend-Developer-730c8f34a5e041b59f06d286ed0bc80e)
+- Portfolio: [이력서/포트폴리오](https://leejihyuns.notion.site/Frontend-Developer-730c8f34a5e041b59f06d286ed0bc80e)
 
+<!--
 <br>
 
 ## 💼 Work Experience
@@ -68,7 +69,7 @@
 - 2023 ~ 2024 그린다, 소상공인 대상 자원재순환 플랫폼 백오피스 개발
 - 2024 내포씽, 내포신도시 공공자전거 어플리케이션, 백오피스 개발
 
-<!-- [![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름) -->
+[![Jihyun's/리포지토리이름 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=sik9252&repo=리포이름&theme=vision-friendly-dark)](https://github.com/sik9252/리포이름)
 
 <br>
 
@@ -92,11 +93,15 @@
 
 <br>
 
+-->
+
 <!--## 💻 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beank)](https://solved.ac/beank/)
 
 <br>-->
+
+<br>
 
 ## ⭐️ Stats
 

@@ -41,10 +41,12 @@
 ## 📞 Contact
 
 - Email: sik9252@naver.com
-- Blog: [블로그](https://coding-life-diary.tistory.com/)
-- Portfolio: [이력서/포트폴리오](https://leejihyuns.notion.site/Frontend-Developer-730c8f34a5e041b59f06d286ed0bc80e)
 
 <!--
+- Blog: [블로그](https://coding-life-diary.tistory.com/)
+- Portfolio: [이력서/포트폴리오](https://leejihyuns.notion.site/Frontend-Developer-730c8f34a5e041b59f06d286ed0bc80e) -->
+
+
 <br>
 
 ## 💼 Work Experience
@@ -93,7 +95,6 @@
 
 <br>
 
--->
 
 <!--## 💻 Algorithm
 

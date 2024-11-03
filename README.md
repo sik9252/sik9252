@@ -51,7 +51,7 @@
 ## 💼 Work Experience
 
 - 2023.08 ~ 2024.05 <img width="20" alt="lio_logo" src="https://github.com/sik9252/flutter_project/assets/64947440/32a880bf-2ab9-4b7b-9a71-4223b95672cb">
-스타트업 리오 개발팀 근무 (프론트엔드 개발자)
+스타트업 리오 개발팀 근무
 
 <br>
 
